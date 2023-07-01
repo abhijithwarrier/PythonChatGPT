@@ -18,3 +18,4 @@ Step 3: In the opened page, click on the "Create new secret key" and a secret ke
 Step 4: Copy the generate secret key and save it in a Notepad.
 
 # Result Of The Script:
+![image](https://github.com/abhijithwarrier/PythonChatGPT/assets/46685919/24315c7b-4777-4373-a64c-ce205cbb37e6)
